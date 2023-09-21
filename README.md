@@ -9,4 +9,9 @@ Encoding in front of the problems:
 - ${\color{yellow} L }$ - "lecture/lab";
 - ${\color{yellow} M }$ - "more exercise".
 
+Teachers:
+
+- Python Basics: Mario Zahariev (lectures) & Veronika Vaneva (exercises)
+- Python Fundamentals: Mario Zahariev (lectures) & Ivan Shopov (exercises)
+
 ![image](https://softuni.bg/Files/Publications/2019/06/pytonwizzard_15463182.png)
