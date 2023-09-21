@@ -7,7 +7,8 @@ Encoding in front of the problems:
 
 - ${\color{yellow} E }$ - "exercise";
 - ${\color{yellow} L }$ - "lecture/lab";
-- ${\color{yellow} M }$ - "more exercise".
+- ${\color{yellow} M }$ - "more exercise";
+- ${\color{yellow} MZ }$ - problems left by Mario Zahariev.
 
 Teachers:
 
