@@ -1,7 +1,7 @@
 # SoftUni-Courses
 Courses from my education @ [SoftUni](https://softuni.bg/).
 
-Here you can find my solutions of some problems in the [Judge](https://judge.softuni.org/) system, using Python :snake:.
+Here you can find my solutions to some of the problems in the [Judge](https://judge.softuni.org/) system, using Python :snake:.
 
 Encoding in front of the problems:
 
