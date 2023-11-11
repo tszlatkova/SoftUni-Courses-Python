@@ -7,9 +7,9 @@ input_string = input()
 digits, letters, others = '', '', ''
 
 for character in input_string:
-    if ord(character) in range(97, 123) or ord(character) in range(65, 91):
+    if ord(character) in range(97, 123) or ord(character) in range(65, 91):  # if char.isalpha()
         letters += character
-    elif ord(character) in range(48, 58):
+    elif ord(character) in range(48, 58):  # if char.isdigit()
         digits += character
     else:
         others += character
