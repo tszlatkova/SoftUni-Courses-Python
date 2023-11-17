@@ -27,7 +27,7 @@
 import re
 
 input_line = input()
-input_strings = re.split(' +|\t', input_line)
+input_strings = re.split(' +|\t', input_line) # remove all white spaces and the tabulation
 total_sum = 0
 
 for string in input_strings:
