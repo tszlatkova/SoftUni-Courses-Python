@@ -5,10 +5,10 @@ Here you can find my solutions to some of the problems in the [Judge](https://ju
 
 Encoding in front of the problems:
 
-- ${\color{yellow} E }$ - "exercise";
-- ${\color{yellow} L }$ - "lecture/lab";
-- ${\color{yellow} M }$ - "more exercise";
-- ${\color{yellow} MZ }$ - problems left by Mario Zahariev.
+- ${\color{orange} E }$ - "exercise";
+- ${\color{orange} L }$ - "lecture/lab";
+- ${\color{orange} M }$ - "more exercise";
+- ${\color{orange} MZ }$ - problems left by Mario Zahariev.
 
 Teachers:
 
