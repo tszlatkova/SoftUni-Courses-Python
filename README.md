@@ -14,5 +14,6 @@ Teachers:
 
 - Python Basics: Mario Zahariev (lectures) & Veronika Vaneva (exercises)
 - Python Fundamentals: Mario Zahariev (lectures) & Ivan Shopov (exercises)
+- Python Advanced: Ines Ivanova (lectures) & Atanas Atanasov (exercises)
 
 ![image](https://softuni.bg/Files/Publications/2019/06/pytonwizzard_15463182.png)

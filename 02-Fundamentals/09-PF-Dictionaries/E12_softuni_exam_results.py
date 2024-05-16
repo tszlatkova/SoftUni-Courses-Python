@@ -1,4 +1,4 @@
-# Judge statistics on the last Programing Fundamentals exam were not working correctly, so you have the task of taking
+# Judge statistics on the last Programing 02-Fundamentals exam were not working correctly, so you have the task of taking
 # all the submissions and analyzing them properly. You should collect all the submissions and print the final results
 # and statistics about each language in which the participants submitted their solutions.
 # You will be receiving lines in the following format: "{username}-{language}-{points}" until you receive "exam
