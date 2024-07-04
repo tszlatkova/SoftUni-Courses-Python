@@ -42,5 +42,5 @@ while command != 'No Money':
 
 print(*[s for s in gifts if s != 'None'])
 
-# when I was checking if the index is valid, I have missed to check if it's > 0... and I did'n pass the last three
-# test in the Judge system
+# when I was checking if the index is valid, I have missed to check if it's > 0... and
+# I didn't pass the last three test in the Judge system
