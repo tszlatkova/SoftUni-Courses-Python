@@ -27,7 +27,7 @@ max_sum = -maxsize
 max_sum_matrix = []
 
 for i in range(rows-2):
-    for j in range(rows-2):
+    for j in range(columns-2):
         current_matrix = []
         for k in range(3):
             current_matrix.append([matrix[i+k][j], matrix[i+k][j+1], matrix[i+k][j+2]])
