@@ -3,6 +3,9 @@
 # Submit only your function in the Judge system.
 
 def multiply(*args):
+    # [int(el) for el in ['1', '2']]
+    # list(map(int, ['1', '2']))
+    # return reduce(lambda x, y: x * y, args)
     total = 1
 
     for num in args:
