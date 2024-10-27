@@ -50,10 +50,13 @@ def print_figure(n):
     if n <= 0:
         return
 
+# Pre-action: print n asterisks
     print('*' * n)
 
+# Recursive call
     print_figure(n - 1)
 
+# Post-action: print n hashtags
     print('#' * n)
 
 
