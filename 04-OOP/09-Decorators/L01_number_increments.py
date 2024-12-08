@@ -8,4 +8,5 @@ def number_increment(numbers):
 
 
 # Test code
+
 print(number_increment([1, 2, 3]))
