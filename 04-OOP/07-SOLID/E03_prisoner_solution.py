@@ -20,7 +20,7 @@ class Prisoner(Person):
     PRISON_LOCATION = (3, 3)
 
     def __init__(self):
-        super(Prisoner, self).__init__(copy.copy(self.PRISON_LOCATION))
+        super(Prisoner, self).__init__(self.PRISON_LOCATION)
 
 
 prisoner = Prisoner()
