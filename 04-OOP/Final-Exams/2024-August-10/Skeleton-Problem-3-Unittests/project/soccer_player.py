@@ -45,7 +45,8 @@ class SoccerPlayer:
     @team.setter
     def team(self, value):
         if value not in SoccerPlayer._VALID_TEAMS:
-            raise ValueError(f"Team must be one of the following: {', '.join(SoccerPlayer._VALID_TEAMS)}!")
+            raise ValueError(f"Team must be one of the following: "
+                             f"{', '.join(SoccerPlayer._VALID_TEAMS)}!")
         self.__team = value
 
     def change_team(self, new_team: str):
@@ -58,7 +59,8 @@ class SoccerPlayer:
         if achievement_name not in self.achievements:
             self.achievements[achievement_name] = 0
         self.achievements[achievement_name] += 1
-        return f"{achievement_name} has been successfully added to the achievements collection!"
+        return f"{achievement_name} has been successfully added to the achievements " \
+               f"collection!"
 
     def __lt__(self, other):
         if self.goals < other.goals:
